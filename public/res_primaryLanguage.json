@@ -1,0 +1,141 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Daniel Shaby. I work with new technologies like React, Node.js, MongoDB and Express. As a former Sales and Startup Leader, I enjoy working with people to build great companies. Understanding the potential and business opportunities that open with knowing how to code, I switched careers to become a full-stack developer. I see my future career path growing as a developer and leader, leading different teams across various disciplines including the technical aspects of the product. I'm flexible, curious about, and open to learning other languages and technologies.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Crown Clothing",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies including React, Redux, Firebase, Sass, Styled Components, and more. ",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://shiny-stardust-117950.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "Sass"
+          }
+        ]
+      },
+      {
+        "title": "David Chu's China Bistro",
+        "startDate": "2020",
+        "description": "Built a website for a real restaurant using HTML-5, CSS3, Bootstrap, and JavaScript.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://davidchuchinabistro.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML-5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "myPlaces",
+        "startDate": "2021",
+        "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Includes authentication (JWT token), Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://mern-d1c41.web.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Crown Clothing ",
+        "title": "Full-Stack Developer",
+        "years": "2022 - present",
+        "mainTech": [
+          "React 18"
+        ],
+        "technologies": [
+          "React",
+          "Redux",
+          "Firebase",
+          "FireStore/NoSQL",
+          "Github",
+          "REST API",
+          "JavaScript",
+          "SASS",
+          "Styled-Components"
+        ]
+      },
+      {
+        "company": "BOTE",
+        "title": "Dev Team Lead and Founder/CEO",
+        "years": "2021-2022",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "WordPress",
+          "Dokan"
+        ]
+      },
+      {
+        "company": "myPlaces",
+        "title": "Software Engineer",
+        "years": "2021",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "Node.JS",
+          "MongoDB",
+          "JavaScript",
+          "Express",
+          "CSS",
+          "HTML"
+         
+        ]
+      }
+    ]
+  }
