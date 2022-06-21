@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "¡Hola!",
-      "description": "👋 Soy Daniel Shaby. Tengo algunos años de experiencia con JavaScript, programación orientada a objetos, y usando tecnologías como React, Node.js, MongoDB, Express, CSS3, AWS, y más. My experiencia en el trabajo incluye crear aplicaciones full-stack con autenticación, seguridad del lado del servidor, carga de imagen o archivo de usuario, almacenamiento persistente, y más. Antes, era líder en las ventas y Startups. Soy flexible, curioso, y abierto a aprender otros idiomas y tecnologías. ",
+      "description": "👋 Soy Daniel Shaby, un alumno de UC Berkeley con algunos años de experiencia con JavaScript, programación orientada a objetos, y usando tecnologías como React, Node.js, MongoDB, Express, CSS3, AWS y APIs REST. My experiencia en el trabajo incluye crear aplicaciones full-stack con autenticación, seguridad del lado del servidor, carga de imagen o archivo de usuario, almacenamiento persistente, y más. Antes, era líder en las ventas y startups. Soy flexible, curioso, y abierto a aprender otros idiomas y tecnologías. ",
       "section_name": {
         "about": "Sobre mí",
         "projects": "Proyectos",
@@ -13,7 +13,7 @@
       {
         "title": "Crown Clothing",
         "startDate": "2022",
-        "description": "Uno de los proyectos más grandes de los que he creado. Aprendí y mejoré mucho, incluyendo el uso de React, Redux, Firebase, Sass, Styled Components y más. ",
+        "description": "Un grande sitio de web de E-commerce que utiliza tecnologías como React y Redux con base de JavaScript. Aprendí y mejoré mucho mi experiencia con React, Redux, Firebase, Sass, Styled Components y más. ",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
