@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "¡Hola!",
-      "description": "👋 Me llamo Daniel Shaby. Trabajo con nuevas tecnologías cómo React, Node.js, MongoDB, y Express. Como exlíder en las ventas y Startups, aprendí a amar a trabajar con otras personas para crear grandes compañías. Comprendiendo las oportunidades y potencial que abren al saber cómo programar, cambié mi carrera para ser un programador full-stack. Veo el futuro de mi carrera creciendo cómo un líder y un programador, liderando equipos en diferentes disciplinas incluyendo los aspectos técnicos del producto. Soy flexible, curioso, y abierto a aprender otros idiomas y tecnologías. ",
+      "description": "👋 Me llamo Daniel Shaby. Trabajo con nuevas tecnologías cómo React, Node.js, MongoDB, y Express. Como exlíder en las ventas y Startups, aprendí a amar a trabajar con otras personas para crear grandes compañías. Comprendiendo las oportunidades y potencial que abren al saber programar, cambié mi carrera para ser un programador full-stack. Veo el futuro de mi carrera creciendo cómo un líder y un programador, liderando equipos en diferentes disciplinas incluyendo los aspectos técnicos del producto. Soy flexible, curioso, y abierto a aprender otros idiomas y tecnologías. ",
       "section_name": {
         "about": "Sobre mí",
         "projects": "Proyectos",
@@ -13,40 +13,44 @@
       {
         "title": "Crown Clothing",
         "startDate": "2022",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "Uno de los proyectos más grandes de los que he creado. Aprendí y mejoré mucho, incluyendo el uso de React, Redux, Firebase, Sass, Styled Components y más. ",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://shopcrownclothing.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-redux-plain",
+            "name": "Redux"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-sass-plain",
+            "name": ""
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "El Bistro Chino de David Chu",
+        "startDate": "2020",
+        "description": "Creé un sitio web para un restaurante real en Maryland, usando HTML-5, CSS3, JavaScript, Google Maps APIs, y más.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://davidchuchinabistro.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML-5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,61 +59,104 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "myPlaces",
+        "startDate": "2021",
+        "description": "Construyé una aplicación Full-Stack usando MongoDB, Express, React, y Node.js (MERN). Lo publiqué en dos servidores, Heroku y Firebase. Programé también la lógica para la autenticación del usuario, los mapas de Google Maps, la seguridad del sitio web, y también la persistencia de documentos cómo imágenes.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://mern-d1c41.web.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      }, {
+        "title": "tindog",
+        "startDate": "2020",
+        "description": "Creé una página landing para una idea startup que conecta dueños de perros para establecer amistadas y relaciones. Esta idea se basa en la aplicación de tinder, que desarolla relaciones románticas entre las personas.",
+        "images": [
+          "images/portfolio/tindog/p1.jpg",
+          "images/portfolio/tindog/p2.jpg"
+        ],
+        "url": "https://dshaby.github.io/TinDog/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML-5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Crown Clothing",
+        "title": "Full-Stack Developer",
+        "years": "2022 - ahora",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 18"
         ],
         "technologies": [
+          "React",
+          "Redux",
+          "Firebase",
+          "FireStore/NoSQL",
+          "Github",
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "SASS",
+          "Styled-Components"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "BOTE",
+        "title": "Líder de programadores, fundador y director ejecutivo",
+        "years": "2021 - 2022",
         "mainTech": [
-          "Angular 7/8"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "React",
           "JavaScript",
-          "DHTMLX Gantt"
+          "CSS",
+          "HTML",
+          "WordPress",
+          "Dokan"
+        ]
+      },
+      {
+        "company": "myPlaces",
+        "title": "Ingeniero de software",
+        "years": "2021",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "Node.JS",
+          "MongoDB",
+          "JavaScript",
+          "Express",
+          "CSS",
+          "HTML"
         ]
       }
     ]

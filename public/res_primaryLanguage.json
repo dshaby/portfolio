@@ -13,12 +13,12 @@
       {
         "title": "Crown Clothing",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies including React, Redux, Firebase, Sass, Styled Components, and more. ",
+        "description": "One of the largest projects that I created. I improved my skill-set with various technologies including React, Redux, Firebase, Sass, Styled Components, and more.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "https://shiny-stardust-117950.netlify.app/",
+        "url": "https://shopcrownclothing.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-plain",
@@ -37,7 +37,7 @@
       {
         "title": "David Chu's China Bistro",
         "startDate": "2020",
-        "description": "Built a website for a real restaurant using HTML-5, CSS3, Bootstrap, and JavaScript.",
+        "description": "Built a website for a real restaurant in Maryland using HTML-5, CSS3, Bootstrap, JavaScript, Google Maps APIs, and more. ",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -79,6 +79,29 @@
           {
             "class": "devicon-mongodb-plain",
             "name": "MongoDB"
+          }
+        ]
+      }, {
+        "title": "tindog",
+        "startDate": "2020",
+        "description": "Built a landing page for a startup idea that matches dog owners for friendships and relationships. This idea is based on tinder's relationship dating app.",
+        "images": [
+          "images/portfolio/tindog/p1.jpg",
+          "images/portfolio/tindog/p2.jpg"
+        ],
+        "url": "https://dshaby.github.io/TinDog/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML-5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
@@ -134,7 +157,6 @@
           "Express",
           "CSS",
           "HTML"
-         
         ]
       }
     ]
