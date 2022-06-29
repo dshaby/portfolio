@@ -172,7 +172,12 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 350px;
+
+	@media screen and (min-width: 768px) and (max-width: 1150px) {
+		max-width: 280px;
+		height: 280px;
+	}
 }
 
 .polaroid span {
@@ -190,6 +195,10 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+
+	@media screen and (min-width: 768px) and (max-width: 1150px) {
+		margin-left: 120px;
+	}
 }
 
 .link-href {

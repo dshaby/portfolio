@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Daniel Shaby, a UC Berkeley alumnus with several years experience in JavaScript, object-oriented programming, and using technologies like React, Node.js, MongoDB, Express, CSS3, AWS, and REST APIs. Previously, I was a Sales and Startup Leader. Now, I'm experienced with building full-stack web applications with authentication, optimized code for performance, server-side security, user file or image upload, bootstrap styling, persistent storage (AWS), and more. I'm flexible, curious about, and open to learning other languages and technologies.",
+      "description": "👋 I'm Daniel Shaby, a UC Berkeley alumnus with several years experience in JavaScript, object-oriented programming, and using technologies like React, Node.js, MongoDB, Express, CSS3, AWS, and REST APIs. Previously, I was a Sales and Startup Leader. Now, I'm experienced with building full-stack web applications with authentication, optimized code for performance, server-side security, user file or image upload, bootstrap styling, persistent storage (AWS), and more. I'm flexible, curious, and open to learning other languages and technologies.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Crown Clothing",
         "startDate": "2022",
-        "description": "A large E-commerce site that uses technologies like React and Redux, with JavaScript as the language. I learned and improved a lot my knowledge with React, Redux, Firebase, Sass, Styled Components, and more.",
+        "description": "Built a large E-commerce site with React, Redux, JavaScript as the primary language, Google Firebase for authentication and database storage, Sass, Styled Components, CSS3, and more.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "David Chu's China Bistro",
         "startDate": "2020",
-        "description": "Built a website for a real restaurant in Maryland using HTML-5, CSS3, Bootstrap, JavaScript, Google Maps APIs, and more. ",
+        "description": "Built a website for a restaurant based in Maryland using JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, and more. ",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -61,7 +61,7 @@
       {
         "title": "myPlaces",
         "startDate": "2021",
-        "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Includes authentication (JWT token), Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
+        "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Programmed the logic required for authentication with JWT token, Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -84,7 +84,7 @@
       }, {
         "title": "tindog",
         "startDate": "2020",
-        "description": "Built a landing page for a startup idea that matches dog owners for friendships and relationships. This idea is based on tinder's relationship dating app.",
+        "description": "Built a landing page for a startup idea that matches dog owners for friendships and partners for their dogs. This idea is based on tinder's relationship dating app. Coded with efficient CSS3 and Twitter Bootstrap, including mobile friendly and responsive designs.",
         "images": [
           "images/portfolio/tindog/p1.jpg",
           "images/portfolio/tindog/p2.jpg"

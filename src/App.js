@@ -91,13 +91,15 @@ class App extends Component {
               )
             }
             style={{ display: "inline" }}
-          >
+          ><>
             <span
               className="iconify language-icon mr-5"
               data-icon="twemoji-flag-for-flag-united-states"
               data-inline="false"
               id={window.$primaryLanguageIconId}
             ></span>
+<span style={{fontSize: 18, padding: 10, marginLeft: -30}}>English</span>
+</>
           </div>
           <div
             onClick={() =>
@@ -108,12 +110,14 @@ class App extends Component {
             }
             style={{ display: "inline" }}
           >
-            <span
+            <><span
               className="iconify language-icon"
               data-icon="twemoji-flag-for-flag-spain"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
+            <span style={{fontSize: 18, padding: 10}}>Español</span>
+            </>
           </div>
         </div>
         <About

@@ -13,7 +13,7 @@
       {
         "title": "Crown Clothing",
         "startDate": "2022",
-        "description": "Un grande sitio de web de E-commerce que utiliza tecnologías como React y Redux con base de JavaScript. Aprendí y mejoré mucho mi experiencia con React, Redux, Firebase, Sass, Styled Components y más. ",
+        "description": "Crée un grande sitio web de E-commerce con React, Redux, JavaScript (cómo el idioma principal), Google Firebase para autenticación y almacenamiento, Sass, Styled Components, CSS3, y más. ",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "El Bistro Chino de David Chu",
         "startDate": "2020",
-        "description": "Creé un sitio web para un restaurante real en Maryland, usando HTML-5, CSS3, JavaScript, Google Maps APIs, y más.",
+        "description": "Creé un sitio web para un restaurante basado en Maryland, usando JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, CSS3 y más.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -61,7 +61,7 @@
       {
         "title": "myPlaces",
         "startDate": "2021",
-        "description": "Construyé una aplicación Full-Stack usando MongoDB, Express, React, y Node.js (MERN). Lo publiqué en dos servidores, Heroku y Firebase. Programé también la lógica para la autenticación del usuario, los mapas de Google Maps, la seguridad del sitio web, y también la persistencia de documentos cómo imágenes.",
+        "description": "Construyé una aplicación Full-Stack usando MongoDB, Express, React, y Node.js (MERN). Lo publiqué usando dos servidores, Heroku y Firebase. Programé también la lógica para la autenticación del usuario, los mapas de Google Maps, la seguridad del sitio web, y también la persistencia de documentos cómo imágenes.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -84,7 +84,7 @@
       }, {
         "title": "tindog",
         "startDate": "2020",
-        "description": "Creé una página landing para una idea startup que conecta dueños de perros para establecer amistadas y relaciones. Esta idea se basa en la aplicación de tinder, que desarolla relaciones románticas entre las personas.",
+        "description": "Creé una página landing para una idea startup que conecta dueños de perros para establecer amistadas y relaciones para sus perros. Esta idea se basa en la aplicación de tinder, que desarolla relaciones entre las personas. Lo programé con eficiente CSS3 y Twitter Boostrap para tener un sitio web compatible con dispositivos móviles y de diferentes tamaños. ",
         "images": [
           "images/portfolio/tindog/p1.jpg",
           "images/portfolio/tindog/p2.jpg"
