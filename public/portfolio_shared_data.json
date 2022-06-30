@@ -24,6 +24,11 @@
           "level": "80"
         },
         {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "80"
+        },
+        {
           "name": "Node.JS",
           "class": "devicon-nodejs-plain",
           "level": "90"
