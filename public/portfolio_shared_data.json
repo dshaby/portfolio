@@ -19,16 +19,6 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
           "name": "React",
           "class": "devicon-react-plain",
           "level": "80"
@@ -39,9 +29,30 @@
           "level": "90"
         },
         {
+          "name": "Express.JS",
+          "class": "devicon-express-original",
+          "level": "90"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
+        },
+        
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Firebase/FireStore",
+          "class": "devicon-firebase-plain",
+          "level": "65"
         },
         {
           "name": "Sass",
@@ -54,14 +65,19 @@
           "level": "85"
         },
         {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
-          "level": "65"
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "WordPress",
+          "class": "devicon-wordpress-plain",
+          "level": "90"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
         }
       ]
     }
