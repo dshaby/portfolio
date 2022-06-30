@@ -200,7 +200,30 @@
             "name": "CSS3"
           }
         ]
-      }
+      },{
+        "title": "Simon Game",
+        "startDate": "2020",
+        "description": "Created a challenging JavaScript (and jQuery) built game based on the original Simon game.",
+        "images": [
+          "images/portfolio/simon-game/p1.jpg",
+          "images/portfolio/simon-game/p2.jpg"
+        ],
+        "url": "https://dshaby.github.io/SimonGame/",
+        "technologies": [
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      } 
     ],
     "experience": [
       {

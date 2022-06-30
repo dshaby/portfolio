@@ -177,7 +177,7 @@
         ]
       },
       {
-        "title": "Keeper App",
+        "title": "Keeper",
         "startDate": "2020",
         "description": "Compuse una aplicación full-stack usando React, Material Boostrap, y CSS3 para el front-end y tecnología de cadena de bloques para el backend.",
         "images": [
@@ -189,6 +189,29 @@
           {
             "class": "devicon-react-plain",
             "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },{
+        "title": "Juego de Simon",
+        "startDate": "2020",
+        "description": "Creé un juego desafiante usando JavaScript y jQuery. Este jeugo se basa en el juego original de Simon.",
+        "images": [
+          "images/portfolio/simon-game/p1.jpg",
+          "images/portfolio/simon-game/p2.jpg"
+        ],
+        "url": "https://dshaby.github.io/SimonGame/",
+        "technologies": [
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
           },
           {
             "class": "devicon-javascript-plain",
