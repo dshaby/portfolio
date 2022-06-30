@@ -36,7 +36,7 @@
       },
       {
         "title": "El Bistro Chino de David Chu",
-        "startDate": "2020",
+        "startDate": "2021",
         "description": "Creé un sitio web para un restaurante basado en Maryland, usando JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, CSS3 y más.",
         "images": [
           "images/portfolio/photography/p1.jpg",
@@ -83,7 +83,7 @@
         ]
       }, {
         "title": "tindog",
-        "startDate": "2020",
+        "startDate": "2021",
         "description": "Creé una página landing para una idea startup que conecta dueños de perros para establecer amistadas y relaciones para sus perros. Esta idea se basa en la aplicación de tinder, que desarolla relaciones entre las personas. Lo programé con eficiente CSS3 y Twitter Boostrap para tener un sitio web compatible con dispositivos móviles y de diferentes tamaños. ",
         "images": [
           "images/portfolio/tindog/p1.jpg",
@@ -102,6 +102,101 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          }
+        ]
+      }, {
+        "title": "Users Rolodex",
+        "startDate": "2021",
+        "description": "Creé una lista de usuarios con React. Con cada pulsación del teclado, la página se actualiza dynamicamente, filtrando los usuarios por las letras oprimidas. Los usuarios fueron creados con el uso de APIs, y la aplicación fue subido con Firebase. ",
+        "images": [
+          "images/portfolio/monsters-rolodex/p1.jpg",
+          "images/portfolio/monsters-rolodex/p2.jpg"
+        ],
+        "url": "https://monsters-rolodex-shaby-b9c81.web.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      }, 
+      {
+        "title": "Blog Diario",
+        "startDate": "2020",
+        "description": "Desplegué una aplicación full-stack usando MongoDB, Express.JS, Node.JS, y Boostrap. Create, Read, Update, y Delete (CRUD) funciones fueron implementado.",
+        "images": [
+          "images/portfolio/daily-blog/p1.jpg",
+          "images/portfolio/daily-blog/p2.jpg"
+        ],
+        "url": "https://blog-mongodb-nodejs.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Secretos",
+        "startDate": "2020",
+        "description": "Creé una aplicación seguro con contraseñas hash. Solamente usarios registrados pueden ver los 'secretos'. Usé Node.js, Express, MongoDB y Bootstrap 5.",
+        "images": [
+          "images/portfolio/secrets/p1.jpg",
+          "images/portfolio/secrets/p2.jpg"
+        ],
+        "url": "https://oauth-mongodb-secrets.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Twitter Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Keeper App",
+        "startDate": "2020",
+        "description": "Compuse una aplicación full-stack usando React, Material Boostrap, y CSS3 para el front-end y tecnología de cadena de bloques para el backend.",
+        "images": [
+          "images/portfolio/keeper-app/p1.jpg",
+          "images/portfolio/keeper-app/p2.jpg"
+        ],
+        "url": "https://rb4hu-fiaaa-aaaaj-ad4ca-cai.ic0.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }
