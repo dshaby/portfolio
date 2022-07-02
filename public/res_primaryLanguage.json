@@ -58,30 +58,7 @@
           }
         ]
       },
-      {
-        "title": "myPlaces",
-        "startDate": "2021",
-        "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Programmed the logic required for authentication with JWT token, Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://mern-d1c41.web.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.JS"
-          },
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
-          }
-        ]
-      }, {
+       {
         "title": "tindog",
         "startDate": "2021",
         "description": "Built a landing page for a startup idea that matches dog owners for friendships and partners for their dogs. This idea is based on tinder's relationship dating app. Coded with efficient CSS3 and Twitter Bootstrap, including mobile friendly and responsive designs.",
@@ -102,6 +79,29 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          }
+        ]
+      }, {
+        "title": "myPlaces",
+        "startDate": "2021",
+        "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Programmed the logic required for authentication with JWT token, Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://mern-d1c41.web.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       }, {

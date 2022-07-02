@@ -58,30 +58,7 @@
           }
         ]
       },
-      {
-        "title": "myPlaces",
-        "startDate": "2021",
-        "description": "Construyé una aplicación Full-Stack usando MongoDB, Express, React, y Node.js (MERN). Lo publiqué usando dos servidores, Heroku y Firebase. Programé también la lógica para la autenticación del usuario, los mapas de Google Maps, la seguridad del sitio web, y también la persistencia de documentos cómo imágenes.",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://mern-d1c41.web.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJS"
-          },
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
-          }
-        ]
-      }, {
+       {
         "title": "tindog",
         "startDate": "2021",
         "description": "Creé una página landing para una idea startup que conecta dueños de perros para establecer amistadas y relaciones para sus perros. Esta idea se basa en la aplicación de tinder, que desarolla relaciones entre las personas. Lo programé con eficiente CSS3 y Twitter Boostrap para tener un sitio web compatible con dispositivos móviles y de diferentes tamaños. ",
@@ -102,6 +79,29 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          }
+        ]
+      }, {
+        "title": "myPlaces",
+        "startDate": "2021",
+        "description": "Construyé una aplicación Full-Stack usando MongoDB, Express, React, y Node.js (MERN). Lo publiqué usando dos servidores, Heroku y Firebase. Programé también la lógica para la autenticación del usuario, los mapas de Google Maps, la seguridad del sitio web, y también la persistencia de documentos cómo imágenes.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://mern-d1c41.web.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       }, {
