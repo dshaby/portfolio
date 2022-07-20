@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Crown Clothing",
+        "title": "Aplicación E-commerce",
         "startDate": "2022",
         "description": "Crée un grande sitio web de E-commerce con React, Redux, JavaScript (cómo el idioma principal), Google Firebase para autenticación y almacenamiento, Sass, Styled Components, CSS3, y más. ",
         "images": [
@@ -82,7 +82,7 @@
           }
         ]
       }, {
-        "title": "myPlaces",
+        "title": "Explore lugares populares",
         "startDate": "2021",
         "description": "Construyé una aplicación Full-Stack usando MongoDB, Express, React, y Node.js (MERN). Lo publiqué usando dos servidores, Heroku y Firebase. Programé también la lógica para la autenticación del usuario, los mapas de Google Maps, la seguridad del sitio web, y también la persistencia de documentos cómo imágenes.",
         "images": [
@@ -105,9 +105,9 @@
           }
         ]
       }, {
-        "title": "Users Rolodex",
+        "title": "Monsters Rolodex",
         "startDate": "2021",
-        "description": "Creé una lista de usuarios con React. Con cada pulsación del teclado, la página se actualiza dynamicamente, filtrando los usuarios por las letras oprimidas. Los usuarios fueron creados con el uso de APIs, y la aplicación fue subido con Firebase. ",
+        "description": "Creé una lista de monstruos/usuarios con React. Con cada pulsación del teclado, la página se actualiza dynamicamente, filtrando los usuarios por las letras oprimidas. Los usuarios fueron creados con el uso de APIs, y la aplicación fue subido con Firebase. ",
         "images": [
           "images/portfolio/monsters-rolodex/p1.jpg",
           "images/portfolio/monsters-rolodex/p2.jpg"

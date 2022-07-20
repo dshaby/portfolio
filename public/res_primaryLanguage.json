@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Crown Clothing",
+        "title": "E-Commerce App",
         "startDate": "2022",
         "description": "Built a large E-commerce site with React, Redux, JavaScript as the primary language, Google Firebase for authentication and database storage, Sass, Styled Components, CSS3, and more.",
         "images": [
@@ -82,7 +82,7 @@
           }
         ]
       }, {
-        "title": "myPlaces",
+        "title": "Explore popular spots",
         "startDate": "2021",
         "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Programmed the logic required for authentication with JWT token, Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
         "images": [
@@ -105,9 +105,9 @@
           }
         ]
       }, {
-        "title": "Users Rolodex",
+        "title": "Monsters Rolodex",
         "startDate": "2021",
-        "description": "Created a list of users with React, and with every keystroke, the website updates automatically filtering for users by the keyboard letters pressed. The users were imported with APIs, and the website was deployed on Firebase. ",
+        "description": "Created a list of monsters/users with React, and with every keystroke, the website updates automatically filtering for users by the keyboard letters pressed. The users were imported with APIs, and the website was deployed on Firebase. ",
         "images": [
           "images/portfolio/monsters-rolodex/p1.jpg",
           "images/portfolio/monsters-rolodex/p2.jpg"
@@ -247,7 +247,7 @@
       },
       {
         "company": "BOTE",
-        "title": "Dev Team Lead and Founder/CEO",
+        "title": "Dev Team Lead and Founder/CTO",
         "years": "2021-2022",
         "mainTech": [
           "React"
