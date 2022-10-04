@@ -1,282 +1,283 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Daniel Shaby, a UC Berkeley alumnus with several years experience in JavaScript, object-oriented programming, and using technologies like React, Node.js, MongoDB, Express, CSS3, AWS, and REST APIs. Previously, I was a Sales and Startup Leader. Now, I'm experienced with building full-stack web applications with authentication, optimized code for performance, server-side security, user file or image upload, bootstrap styling, persistent storage (AWS), and more. I'm flexible, curious, and open to learning other languages and technologies.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Daniel Shaby, a UC Berkeley alumnus with several years experience in JavaScript, object-oriented programming, and using technologies like React, Node.js, MongoDB, Express, CSS3, AWS, and REST APIs. Previously, I was a Sales and Startup Leader. Now, I'm experienced with building full-stack web applications with authentication, optimized code for performance, server-side security, user file or image upload, bootstrap styling, persistent storage (AWS), and more. I'm flexible, curious, and open to learning other languages and technologies.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Sourced Fashion Inc",
+      "startDate": "2022",
+      "description": "Built a large E-commerce site with React, Redux, JavaScript, Typescript, Google Firebase for authentication and database storage, Sass, Styled Components, CSS3, and more.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://sourcedfashion.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.JS"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "Sass"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "E-Commerce App",
-        "startDate": "2022",
-        "description": "Built a large E-commerce site with React, Redux, JavaScript as the primary language, Google Firebase for authentication and database storage, Sass, Styled Components, CSS3, and more.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "https://shopcrownclothing.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React.JS"
-          },
-          {
-            "class": "devicon-redux-plain",
-            "name": "Redux"
-          },
-          {
-            "class": "devicon-sass-plain",
-            "name": "Sass"
-          }
-        ]
-      },
-      {
-        "title": "David Chu's China Bistro",
-        "startDate": "2021",
-        "description": "Built a website for a restaurant based in Maryland using JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, and more. ",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://davidchuchinabistro.com",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML-5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-       {
-        "title": "tindog",
-        "startDate": "2021",
-        "description": "Built a landing page for a startup idea that matches dog owners for friendships and partners for their dogs. This idea is based on tinder's relationship dating app. Coded with efficient CSS3 and Twitter Bootstrap, including mobile friendly and responsive designs.",
-        "images": [
-          "images/portfolio/tindog/p1.jpg",
-          "images/portfolio/tindog/p2.jpg"
-        ],
-        "url": "https://dshaby.github.io/TinDog/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML-5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          }
-        ]
-      }, {
-        "title": "Explore popular spots",
-        "startDate": "2021",
-        "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Programmed the logic required for authentication with JWT token, Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://mern-d1c41.web.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.JS"
-          },
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
-          }
-        ]
-      }, {
-        "title": "Monsters Rolodex",
-        "startDate": "2021",
-        "description": "Created a list of monsters/users with React, and with every keystroke, the website updates automatically filtering for users by the keyboard letters pressed. The users were imported with APIs, and the website was deployed on Firebase. ",
-        "images": [
-          "images/portfolio/monsters-rolodex/p1.jpg",
-          "images/portfolio/monsters-rolodex/p2.jpg"
-        ],
-        "url": "https://monsters-rolodex-shaby-b9c81.web.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-firebase-plain",
-            "name": "Firebase"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },
-      {
-        "title": "Daily Blog",
-        "startDate": "2021",
-        "description": "Deployed a full-stack web app using MongoDB, Express.JS, Node.JS, and Boostrap. Create, Read, Update, and Delete (CRUD) functions were also implemented.",
-        "images": [
-          "images/portfolio/daily-blog/p1.jpg",
-          "images/portfolio/daily-blog/p2.jpg"
-        ],
-        "url": "https://blog-mongodb-nodejs.herokuapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.JS"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "bootstrap"
-          }
-        ]
-      },
-      
-      {
-        "title": "Secrets",
-        "startDate": "2020",
-        "description": "Created a full-stack secure application with hashed and salted passwords. Only registered users can view the 'secrets'. Built with Node.js, Express, MongoDB and Twitter Bootstrap.",
-        "images": [
-          "images/portfolio/secrets/p1.jpg",
-          "images/portfolio/secrets/p2.jpg"
-        ],
-        "url": "https://oauth-mongodb-secrets.herokuapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Twitter Bootstrap"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.JS"
-          },
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
-          }
-        ]
-      },
-      {
-        "title": "Keeper App",
-        "startDate": "2020",
-        "description": "Built a full-stack web app with React, Material Boostrap, and CSS3 for the front-end and the Blockchain technology / Motoko for the backend.",
-        "images": [
-          "images/portfolio/keeper-app/p1.jpg",
-          "images/portfolio/keeper-app/p2.jpg"
-        ],
-        "url": "https://rb4hu-fiaaa-aaaaj-ad4ca-cai.ic0.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },{
-        "title": "Simon Game",
-        "startDate": "2020",
-        "description": "Created a challenging JavaScript (and jQuery) built game based on the original Simon game.",
-        "images": [
-          "images/portfolio/simon-game/p1.jpg",
-          "images/portfolio/simon-game/p2.jpg"
-        ],
-        "url": "https://dshaby.github.io/SimonGame/",
-        "technologies": [
-          {
-            "class": "devicon-jquery-plain",
-            "name": "jQuery"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      } 
-    ],
-    "experience": [
-      {
-        "company": "Crown Clothing ",
-        "title": "Full-Stack Developer",
-        "years": "2022 - present",
-        "mainTech": [
-          "React 18"
-        ],
-        "technologies": [
-          "React",
-          "Redux",
-          "Firebase",
-          "FireStore/NoSQL",
-          "Github",
-          "REST API",
-          "JavaScript",
-          "SASS",
-          "Styled-Components"
-        ]
-      },
-      {
-        "company": "BOTE",
-        "title": "Dev Team Lead and Founder/CTO",
-        "years": "2021-2022",
-        "mainTech": [
-          "React"
-        ],
-        "technologies": [
-          "React",
-          "JavaScript",
-          "CSS",
-          "HTML",
-          "WordPress",
-          "Dokan"
-        ]
-      },
-      {
-        "company": "myPlaces",
-        "title": "Software Engineer",
-        "years": "2021",
-        "mainTech": [
-          "React"
-        ],
-        "technologies": [
-          "React",
-          "Node.JS",
-          "MongoDB",
-          "JavaScript",
-          "Express",
-          "CSS",
-          "HTML"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "David Chu's China Bistro",
+      "startDate": "2021",
+      "description": "Built a website for a restaurant based in Maryland using JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, and more. ",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://davidchuchinabistro.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML-5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "tindog",
+      "startDate": "2021",
+      "description": "Built a landing page for a startup idea that matches dog owners for friendships and partners for their dogs. This idea is based on tinder's relationship dating app. Coded with efficient CSS3 and Twitter Bootstrap, including mobile friendly and responsive designs.",
+      "images": [
+        "images/portfolio/tindog/p1.jpg",
+        "images/portfolio/tindog/p2.jpg"
+      ],
+      "url": "https://dshaby.github.io/TinDog/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML-5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Explore popular spots",
+      "startDate": "2021",
+      "description": "Created a full-stack MERN web app (MongoDB, Express, React, & Node), which was deployed on two servers, Heroku and Firebase. Programmed the logic required for authentication with JWT token, Google Maps REST API Integration, security, file upload, CRUD functions, and persistent file storage (Amazon AWS S3)",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://mern-d1c41.web.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.JS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Monsters Rolodex",
+      "startDate": "2021",
+      "description": "Created a list of monsters/users with React, and with every keystroke, the website updates automatically filtering for users by the keyboard letters pressed. The users were imported with APIs, and the website was deployed on Firebase. ",
+      "images": [
+        "images/portfolio/monsters-rolodex/p1.jpg",
+        "images/portfolio/monsters-rolodex/p2.jpg"
+      ],
+      "url": "https://monsters-rolodex-shaby-b9c81.web.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Daily Blog",
+      "startDate": "2021",
+      "description": "Deployed a full-stack web app using MongoDB, Express.JS, Node.JS, and Boostrap. Create, Read, Update, and Delete (CRUD) functions were also implemented.",
+      "images": [
+        "images/portfolio/daily-blog/p1.jpg",
+        "images/portfolio/daily-blog/p2.jpg"
+      ],
+      "url": "https://blog-mongodb-nodejs.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.JS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "bootstrap"
+        }
+      ]
+    },
+
+    {
+      "title": "Secrets",
+      "startDate": "2020",
+      "description": "Created a full-stack secure application with hashed and salted passwords. Only registered users can view the 'secrets'. Built with Node.js, Express, MongoDB and Twitter Bootstrap.",
+      "images": [
+        "images/portfolio/secrets/p1.jpg",
+        "images/portfolio/secrets/p2.jpg"
+      ],
+      "url": "https://oauth-mongodb-secrets.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Twitter Bootstrap"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.JS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Keeper App",
+      "startDate": "2020",
+      "description": "Built a full-stack web app with React, Material Boostrap, and CSS3 for the front-end and the Blockchain technology / Motoko for the backend.",
+      "images": [
+        "images/portfolio/keeper-app/p1.jpg",
+        "images/portfolio/keeper-app/p2.jpg"
+      ],
+      "url": "https://rb4hu-fiaaa-aaaaj-ad4ca-cai.ic0.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Simon Game",
+      "startDate": "2020",
+      "description": "Created a challenging JavaScript (and jQuery) built game based on the original Simon game.",
+      "images": [
+        "images/portfolio/simon-game/p1.jpg",
+        "images/portfolio/simon-game/p2.jpg"
+      ],
+      "url": "https://dshaby.github.io/SimonGame/",
+      "technologies": [
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Crown Clothing ",
+      "title": "Full-Stack Developer",
+      "years": "2022 - present",
+      "mainTech": ["React 18"],
+      "technologies": [
+        "React",
+        "Redux",
+        "Firebase",
+        "FireStore/NoSQL",
+        "Github",
+        "REST API",
+        "JavaScript",
+        "SASS",
+        "Styled-Components"
+      ]
+    },
+    {
+      "company": "BOTE",
+      "title": "Dev Team Lead and Founder/CTO",
+      "years": "2021-2022",
+      "mainTech": ["React"],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "WordPress",
+        "Dokan"
+      ]
+    },
+    {
+      "company": "myPlaces",
+      "title": "Software Engineer",
+      "years": "2021",
+      "mainTech": ["React"],
+      "technologies": [
+        "React",
+        "Node.JS",
+        "MongoDB",
+        "JavaScript",
+        "Express",
+        "CSS",
+        "HTML"
+      ]
+    }
+  ]
+}
