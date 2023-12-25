@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Icon } from '@iconify/react';
 import nodejsIcon from '@iconify/icons-logos/nodejs-icon';
 import reactIcon from '@iconify/icons-logos/react';
-import javaScriptIcon from '@iconify/icons-logos/javascript';
+import typescriptIcon from '@iconify/icons-logos/typescript-icon';
 
 class About extends Component {
   render() {
@@ -31,15 +31,15 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={nodejsIcon}
-                    style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
-                  />
-                  <Icon
                     icon={reactIcon}
                     style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
                   />
                   <Icon
-                    icon={javaScriptIcon}
+                    icon={typescriptIcon}
+                    style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
+                  />
+                  <Icon
+                    icon={nodejsIcon}
                     style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
                   />
                 </span>

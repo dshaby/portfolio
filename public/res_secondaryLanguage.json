@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "¡Hola!",
-    "description": "👋 Soy Daniel Shaby, Ingeniero Sénior de Software Full Stack y alumno de UC Berkeley. Tengo más de 5 años de experiencia en programación orientada a objetos, particularmente en el uso de frameworks y tecnologías como React (NextJS, CRA, Vue), Node.js, MongoDB y Express. También tengo experiencia manejando la arquitectura de aplicaciones, utilizando tecnologías como Docker, Kubernetes, AWS, pipelines CI/CD, microfrontend y arquitectura basada en microservicios. Soy flexible, curioso y abierto a aprender otros idiomas y tecnologías.",
+    "description": "👋 Soy Daniel Shaby, Ingeniero Sénior de Software Full Stack y alumno de UC Berkeley. Tengo más de 5 años de experiencia en programación orientada a objetos, particularmente en el uso de frameworks y tecnologías como React (NextJS, CRA, Vue), Javascript, Typescript, Node.js, MongoDB y Express. También tengo experiencia manejando la arquitectura de aplicaciones, utilizando tecnologías como Docker, Kubernetes, AWS, pipelines CI/CD, microfrontend y arquitectura basada en microservicios. Soy flexible, curioso y abierto a aprender otros idiomas y tecnologías.",
     "section_name": {
       "about": "Sobre mí",
       "projects": "Proyectos",
