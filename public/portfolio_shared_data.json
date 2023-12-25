@@ -1,89 +1,89 @@
 {
-    "basic_info": {
-      "name": "Daniel Shaby",
-      "titles": [ "Full-Stack Developer", "Software Engineer", "Dev Team Lead" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/dshaby",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "LinkedIn",
-          "url": "https://www.linkedin.com/in/danielshaby",
-          "class": "fab fa-linkedin"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "80"
-        },
-        {
-          "name": "Redux",
-          "class": "devicon-redux-original",
-          "level": "80"
-        },
-        {
-          "name": "Node.JS",
-          "class": "devicon-nodejs-plain",
-          "level": "90"
-        },
-        {
-          "name": "Express.JS",
-          "class": "devicon-express-original",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        
-        {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
-          "name": "Firebase/FireStore",
-          "class": "devicon-firebase-plain",
-          "level": "65"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "WordPress",
-          "class": "devicon-wordpress-plain",
-          "level": "90"
-        },
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Daniel Shaby",
+    "titles": ["Senior Full-Stack Engineer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/dshaby",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/danielshaby",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "80"
+      },
+      {
+        "name": "Node.JS",
+        "class": "devicon-nodejs-plain",
+        "level": "90"
+      },
+      {
+        "name": "Express.JS",
+        "class": "devicon-express-original",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Firebase/FireStore",
+        "class": "devicon-firebase-plain",
+        "level": "65"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "WordPress",
+        "class": "devicon-wordpress-plain",
+        "level": "90"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      }
+    ]
   }
+}
