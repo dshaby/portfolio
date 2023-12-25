@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Daniel Shaby, a UC Berkeley alumnus with several years experience in JavaScript, object-oriented programming, and using technologies like React, Node.js, MongoDB, Express, CSS3, AWS, and REST APIs. Previously, I was a Sales and Startup Leader. Now, I'm experienced with building full-stack web applications with authentication, optimized code for performance, server-side security, user file or image upload, bootstrap styling, persistent storage (AWS), and more. I'm flexible, curious, and open to learning other languages and technologies.",
+    "description": "👋 I'm Daniel Shaby, a Senior Full Stack Engineer and UC Berkeley alumnus. I have over 5 years of experience with object-oriented programming, particularly with using frameworks and technologies such as React (NextJS, CRA, Vue), Node.js, MongoDB, and Express. I also have experience orchestrating application architecture, using technologies such as Docker, Kubernetes, AWS, CI/CD pipelines, microfrontend and microservices-based architecture. I'm flexible, curious, and open to learning other languages and technologies.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -234,6 +234,22 @@
   ],
   "experience": [
     {
+      "company": "Bynder",
+      "title": "Software Engineer / Front-End Engineer",
+      "years": "2023 - present",
+      "mainTech": ["React 18"],
+      "technologies": [
+        "React",
+        "Redux",
+        "NextJS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins CI/CD",
+        "Typescript",
+        "Styled-Components"
+      ]
+    },
+    {
       "company": "Crown Clothing ",
       "title": "Full-Stack Developer",
       "years": "2022 - present",
@@ -255,20 +271,13 @@
       "title": "Dev Team Lead and Founder/CTO",
       "years": "2021-2022",
       "mainTech": ["React"],
-      "technologies": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "HTML",
-        "WordPress",
-        "Dokan"
-      ]
+      "technologies": ["React", "JavaScript", "CSS"]
     },
     {
       "company": "myPlaces",
       "title": "Software Engineer",
       "years": "2021",
-      "mainTech": ["React"],
+      "mainTech": ["NodeJS"],
       "technologies": [
         "React",
         "Node.JS",
