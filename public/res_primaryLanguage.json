@@ -234,6 +234,22 @@
   ],
   "experience": [
     {
+      "company": "Bynder",
+      "title": "Software Engineer / Front-End Engineer",
+      "years": "2023 - present",
+      "mainTech": ["React 18"],
+      "technologies": [
+        "React",
+        "Redux",
+        "NextJS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins CI/CD",
+        "Typescript",
+        "Styled-Components"
+      ]
+    },
+    {
       "company": "Crown Clothing ",
       "title": "Full-Stack Developer",
       "years": "2022 - present",
@@ -255,20 +271,13 @@
       "title": "Dev Team Lead and Founder/CTO",
       "years": "2021-2022",
       "mainTech": ["React"],
-      "technologies": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "HTML",
-        "WordPress",
-        "Dokan"
-      ]
+      "technologies": ["React", "JavaScript", "CSS"]
     },
     {
       "company": "myPlaces",
       "title": "Software Engineer",
       "years": "2021",
-      "mainTech": ["React"],
+      "mainTech": ["NodeJS"],
       "technologies": [
         "React",
         "Node.JS",

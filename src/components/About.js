@@ -1,13 +1,13 @@
-import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import nodejsIcon from "@iconify/icons-logos/nodejs-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import javaScriptIcon from "@iconify/icons-logos/javascript";
+import React, { Component } from 'react';
+import { Icon } from '@iconify/react';
+import nodejsIcon from '@iconify/icons-logos/nodejs-icon';
+import reactIcon from '@iconify/icons-logos/react';
+import typescriptIcon from '@iconify/icons-logos/typescript-icon';
 
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
+      var profilepic = 'images/' + this.props.sharedBasicInfo.image;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -18,29 +18,29 @@ class About extends Component {
     return (
       <section id="about">
         <div className="col-md-12">
-          <h1 style={{ color: "black" }}>
+          <h1 style={{ color: 'black' }}>
             <span>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
-                <span style={{ cursor: "auto" }}>
+                <span style={{ cursor: 'auto' }}>
                   <img
                     height="350px"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={nodejsIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
                     icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
                   />
                   <Icon
-                    icon={javaScriptIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    icon={typescriptIcon}
+                    style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
+                  />
+                  <Icon
+                    icon={nodejsIcon}
+                    style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
                   />
                 </span>
               </div>
@@ -54,14 +54,14 @@ class About extends Component {
                       className="iconify"
                       data-icon="emojione:red-circle"
                       data-inline="false"
-                    ></span>{" "}
-                    &nbsp;{" "}
+                    ></span>{' '}
+                    &nbsp;{' '}
                     <span
                       className="iconify"
                       data-icon="twemoji:yellow-circle"
                       data-inline="false"
-                    ></span>{" "}
-                    &nbsp;{" "}
+                    ></span>{' '}
+                    &nbsp;{' '}
                     <span
                       className="iconify"
                       data-icon="twemoji:green-circle"
@@ -71,9 +71,9 @@ class About extends Component {
                   <div
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
-                      height: "auto",
-                      fontSize: "132%",
-                      lineHeight: "200%",
+                      height: 'auto',
+                      fontSize: '132%',
+                      lineHeight: '200%',
                     }}
                   >
                     <br />

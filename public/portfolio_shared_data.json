@@ -39,49 +39,38 @@
         "level": "90"
       },
       {
-        "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
-      },
-
-      {
         "name": "MongoDB",
         "class": "devicon-mongodb-plain",
         "level": "65"
       },
       {
-        "name": "MySql",
-        "class": "devicon-mysql-plain",
-        "level": "60"
+        "name": "Typescript",
+        "class": "devicon-typescript-plain",
+        "level": "70"
       },
       {
-        "name": "Firebase/FireStore",
-        "class": "devicon-firebase-plain",
-        "level": "65"
-      },
-      {
-        "name": "Sass",
-        "class": "devicon-sass-original",
+        "name": "NextJS",
+        "class": "devicon-nextjs-original",
         "level": "75"
       },
       {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "80"
+      },
+      {
+        "name": "Kubernetes",
+        "class": "devicon-kubernetes-plain",
         "level": "85"
       },
       {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "95"
-      },
-      {
-        "name": "WordPress",
-        "class": "devicon-wordpress-plain",
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-original",
         "level": "90"
       },
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
+        "name": "CI-CD",
+        "class": "devicon-jenkins-line",
         "level": "95"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "¡Hola!",
-    "description": "👋 Soy Daniel Shaby, un alumno de UC Berkeley con algunos años de experiencia con JavaScript, programación orientada a objetos, y usando tecnologías como React, Node.js, MongoDB, Express, CSS3, AWS y APIs REST. Antes, era líder en las ventas y startups. Ahora, soy adepto en crear aplicaciones full-stack con autenticación, código optimizado para mejor rendimiento, seguridad del lado del servidor, carga de imagen o archivo de usuario, almacenamiento persistente, y más. Soy flexible, curioso, y abierto a aprender otros idiomas y tecnologías. ",
+    "description": "👋 Soy Daniel Shaby, Ingeniero Sénior de Software Full Stack y alumno de UC Berkeley. Tengo más de 5 años de experiencia en programación orientada a objetos, particularmente en el uso de frameworks y tecnologías como React (NextJS, CRA, Vue), Javascript, Typescript, Node.js, MongoDB y Express. También tengo experiencia manejando la arquitectura de aplicaciones, utilizando tecnologías como Docker, Kubernetes, AWS, pipelines CI/CD, microfrontend y arquitectura basada en microservicios. Soy flexible, curioso y abierto a aprender otros idiomas y tecnologías.",
     "section_name": {
       "about": "Sobre mí",
       "projects": "Proyectos",
@@ -232,6 +232,22 @@
     }
   ],
   "experience": [
+    {
+      "company": "Bynder",
+      "title": "Ingeniero de software, desarrollador de front-end",
+      "years": "2023 - ahora",
+      "mainTech": ["React 18"],
+      "technologies": [
+        "React",
+        "Redux",
+        "NextJS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins CI/CD",
+        "Typescript",
+        "Styled-Components"
+      ]
+    },
     {
       "company": "Crown Clothing",
       "title": "Full-Stack Developer",
