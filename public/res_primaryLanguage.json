@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Daniel Shaby, a UC Berkeley alumnus with several years experience in JavaScript, object-oriented programming, and using technologies like React, Node.js, MongoDB, Express, CSS3, AWS, and REST APIs. Previously, I was a Sales and Startup Leader. Now, I'm experienced with building full-stack web applications with authentication, optimized code for performance, server-side security, user file or image upload, bootstrap styling, persistent storage (AWS), and more. I'm flexible, curious, and open to learning other languages and technologies.",
+    "description": "👋 I'm Daniel Shaby. I grew up in the Los Angeles area, and later attended UC Berkeley where I earned my dual Bachelor's Degree in Economics and Public Health. Since graduating in 2020, I have primarily remained in the Los Angeles where I have been previously employed by Crown Clothing, and BOTE, a startup I had founded. Currently, I am remotely employed at Bynder as a Front End Engineer.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
