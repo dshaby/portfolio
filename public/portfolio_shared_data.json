@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Daniel Shaby",
-    "titles": ["Front End Engineer"],
+    "titles": ["Front End Developer", "Software Engineer"],
     "social": [
       {
         "name": "github",
@@ -50,7 +50,7 @@
       },
       {
         "name": "NextJS",
-        "class": "devicon-nextjs-original",
+        "class": "devicon-nextjs-plain",
         "level": "75"
       },
       {
@@ -65,7 +65,7 @@
       },
       {
         "name": "AWS",
-        "class": "devicon-amazonwebservices-original",
+        "class": "devicon-amazonwebservices-plain-wordmark",
         "level": "90"
       },
       {
