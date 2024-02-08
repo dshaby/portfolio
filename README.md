@@ -40,7 +40,9 @@ Check live demonstration <a href="https://dorota1997.github.io/react-frontend-de
 }
 ```
 
-4. `NODE_OPTIONS=--openssl-legacy-provider npm run start` or `npm start` project and customize it.
+4. `NODE_OPTIONS=--openssl-legacy-provider npm run start`
+or
+`npm start` project and customize it.
 5. Deploy on github-pages using `npm run deploy` command.
 
 <pre>
