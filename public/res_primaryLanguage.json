@@ -11,8 +11,36 @@
   },
   "projects": [
     {
+      "title": "HomeKey",
+      "startDate": "2024",
+      "description": "Built a website where users can search for any type of home they want to buy, using non-traditional filters such as 'homes with a fireplace, a view, and a rear-facing door'. Utilized OpenAI's natural language processing APIs, as well as RapidAPI for real-estate data and Google Places API for location-based data. Deployed with Vercel.",
+      "images": [
+        "images/portfolio/homekey/home-page.png",
+        "images/portfolio/homekey/search-results.png"
+      ],
+      "url": "https://homekey-dshaby.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.JS"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        }
+      ]
+    },
+    {
       "title": "Sourced Fashion",
-      "startDate": "2020",
+      "startDate": "2022",
       "description": "Built a E-commerce site with React, Redux, JavaScript, Typescript, Google Firebase for authentication and database storage, Sass, Styled Components, CSS3, and more.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
@@ -40,7 +68,7 @@
     },
     {
       "title": "David Chu's China Bistro",
-      "startDate": "2020",
+      "startDate": "2021",
       "description": "Built a website for a restaurant using JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, and more. ",
       "images": [
         "images/portfolio/photography/p1.jpg",
