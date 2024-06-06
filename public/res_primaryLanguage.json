@@ -134,13 +134,14 @@
     },
     {
       "company": "Crown Clothing ",
-      "title": "Front End Developer",
+      "title": "Software Developer",
       "years": "2022",
       "mainTech": ["React 18"],
       "technologies": [
         "React",
         "Redux",
         "Firebase",
+        "Node.js",
         "FireStore/NoSQL",
         "Github",
         "REST API",
