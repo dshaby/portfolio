@@ -19,18 +19,38 @@
   "skills": {
     "icons": [
       {
+        "name": "Typescript",
+        "class": "devicon-typescript-plain",
+        "level": "70"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "70"
+      },
+      {
+        "name": "Node.JS",
+        "class": "devicon-nodejs-plain",
+        "level": "90"
+      },
+      {
         "name": "React",
         "class": "devicon-react-plain",
         "level": "80"
       },
       {
-        "name": "Redux",
-        "class": "devicon-redux-original",
-        "level": "80"
+        "name": "NextJS",
+        "class": "devicon-nextjs-plain",
+        "level": "75"
       },
       {
-        "name": "Node.JS",
-        "class": "devicon-nodejs-plain",
+        "name": "Django",
+        "class": "devicon-django-plain",
         "level": "90"
       },
       {
@@ -39,19 +59,34 @@
         "level": "90"
       },
       {
+        "name": "Nest.JS",
+        "class": "devicon-nestjs-original",
+        "level": "90"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "80"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "65"
+      },
+      {
         "name": "MongoDB",
         "class": "devicon-mongodb-plain",
         "level": "65"
       },
       {
-        "name": "Typescript",
-        "class": "devicon-typescript-plain",
-        "level": "70"
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "level": "90"
       },
       {
-        "name": "NextJS",
-        "class": "devicon-nextjs-plain",
-        "level": "75"
+        "name": "Vercel",
+        "class": "devicon-vercel-plain",
+        "level": "90"
       },
       {
         "name": "Docker",
@@ -64,14 +99,39 @@
         "level": "85"
       },
       {
-        "name": "AWS",
-        "class": "devicon-amazonwebservices-plain-wordmark",
-        "level": "90"
+        "name": "GitHub Actions",
+        "class": "devicon-githubactions-plain",
+        "level": "95"
       },
       {
-        "name": "CI-CD",
+        "name": "Jenkins CI-CD",
         "class": "devicon-jenkins-line",
         "level": "95"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "85"
+      },
+      {
+        "name": "tRPC",
+        "class": "devicon-trpc-plain",
+        "level": "85"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain",
+        "level": "85"
+      },
+      {
+        "name": "Tailwind CSS",
+        "class": "devicon-tailwindcss-plain",
+        "level": "85"
+      },
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "85"
       }
     ]
   }
