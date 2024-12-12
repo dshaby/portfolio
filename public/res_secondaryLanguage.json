@@ -71,6 +71,33 @@
       ]
     },
     {
+      "title": "Python Django Blog",
+      "startDate": "2024",
+      "description": "Creé una app de blog con Python y Django que permite a los usuarios cargar artículos, agregar comentarios y guardar publicaciones para más tarde.",
+      "images": [
+        "images/portfolio/python_django_blog/home.png",
+        "images/portfolio/python_django_blog/article.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
       "title": "Sourced Fashion",
       "startDate": "2022",
       "description": "Crée un sitio web de E-commerce con React, Redux, JavaScript, Typescript, Google Firebase para autenticación y almacenamiento, Sass, Styled Components, CSS3, y más. ",
