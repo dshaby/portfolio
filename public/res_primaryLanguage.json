@@ -11,6 +11,38 @@
   },
   "projects": [
     {
+      "title": "Math Made Easy",
+      "startDate": "2024",
+      "description": "Built an app that allows users to take a picture of any math problem and get step-by-step solutions instantly",
+      "images": [
+        "images/portfolio/math_made_easy/home.png",
+        "images/portfolio/math_made_easy/solution.png"
+      ],
+      "url": "https://mathmadeeasy.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.JS"
+        },
+        {
+          "class": "devicon-trpc-plain",
+          "name": "tRPC"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailwindCSS"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    },
+    {
       "title": "HomeKey",
       "startDate": "2024",
       "description": "Built a website where users can search for any type of home they want to buy, using non-traditional filters such as 'homes with a fireplace, a view, and a rear-facing door'. Utilized OpenAI's natural language processing APIs, as well as RapidAPI for real-estate data and Google Places API for location-based data. Deployed with Vercel.",
