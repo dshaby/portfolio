@@ -11,7 +11,7 @@
   },
   "projects": [
     {
-      "title": "Math Made Easy",
+      "title": "Solucione Problemas de Matemáticas",
       "startDate": "2024",
       "description": "Creé una app que permite a los usuarios tomar una foto de cualquier problema matemático y obtener soluciones paso a paso al instante.",
       "images": [
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "title": "HomeKey",
+      "title": "Casa de Compras App",
       "startDate": "2024",
       "description": "Creé un sitio web donde los usuarios pueden buscar cualquier tipo de casa que quieran comprar, utilizando filtros no tradicionales como 'viviendas con chimenea, vistas y puerta trasera'. Se utilizaron APIs de procesamiento de lenguaje natural de OpenAI, incluyendo RapidAPI para datos de las casas y Google Places API para datos basados ​​en ubicación. Implementado con Vercel.",
       "images": [
@@ -67,6 +67,33 @@
         {
           "class": "devicon-typescript-plain",
           "name": "Typescript"
+        }
+      ]
+    },
+    {
+      "title": "Alquiler de Casas",
+      "startDate": "2024",
+      "description": "Creé un sitio web donde los usuarios pueden alquilar casas, apartamentos y habitaciones. Usuarios pueden agendar una llamada con un agente de bienes raíces, ver fotos de la propiedad, y más.",
+      "images": [
+        "images/portfolio/home_rentals/home_rentals_landing.png",
+        "images/portfolio/home_rentals/home_rentals_page_two.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.JS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailwindCSS"
         }
       ]
     },
@@ -98,7 +125,7 @@
       ]
     },
     {
-      "title": "Sourced Fashion",
+      "title": "App E-Commerce",
       "startDate": "2022",
       "description": "Crée un sitio web de E-commerce con React, Redux, JavaScript, Typescript, Google Firebase para autenticación y almacenamiento, Sass, Styled Components, CSS3, y más. ",
       "images": [
@@ -126,7 +153,7 @@
       ]
     },
     {
-      "title": "El Bistro Chino de David Chu",
+      "title": "Restaurante",
       "startDate": "2021",
       "description": "Creé un sitio web para un restaurante en Maryland, usando JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, CSS3 y más.",
       "images": [
@@ -150,7 +177,7 @@
       ]
     },
     {
-      "title": "tindog",
+      "title": "Startup App",
       "startDate": "2020",
       "description": "Creé una página landing para una idea que conecta dueños de perros para establecer amistadas y relaciones para sus perros. Esta idea se basa en la aplicación de tinder, que desarolla relaciones entre las personas. Lo programé con CSS3 y Twitter Boostrap para tener un sitio web compatible con dispositivos móviles y de diferentes tamaños. ",
       "images": [

@@ -11,7 +11,7 @@
   },
   "projects": [
     {
-      "title": "Math Made Easy",
+      "title": "Math Problem Solver",
       "startDate": "2024",
       "description": "Built an app that allows users to take a picture of any math problem and get step-by-step solutions instantly",
       "images": [
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "title": "HomeKey",
+      "title": "Home Sales App",
       "startDate": "2024",
       "description": "Built a website where users can search for any type of home they want to buy, using non-traditional filters such as 'homes with a fireplace, a view, and a rear-facing door'. Utilized OpenAI's natural language processing APIs, as well as RapidAPI for real-estate data and Google Places API for location-based data. Deployed with Vercel.",
       "images": [
@@ -67,6 +67,33 @@
         {
           "class": "devicon-typescript-plain",
           "name": "Typescript"
+        }
+      ]
+    },
+    {
+      "title": "Home Rentals",
+      "startDate": "2024",
+      "description": "Built an app for a client that sublets homes to users. Users can book a call with the landlord, view the home, and sign a lease agreement.",
+      "images": [
+        "images/portfolio/home_rentals/home_rentals_landing.png",
+        "images/portfolio/home_rentals/home_rentals_page_two.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.JS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailwindCSS"
         }
       ]
     },
@@ -98,7 +125,7 @@
       ]
     },
     {
-      "title": "Sourced Fashion",
+      "title": "E-Commerce App",
       "startDate": "2022",
       "description": "Built a E-commerce site with React, Redux, JavaScript, Typescript, Google Firebase for authentication and database storage, Sass, Styled Components, CSS3, and more.",
       "images": [
@@ -126,7 +153,7 @@
       ]
     },
     {
-      "title": "David Chu's China Bistro",
+      "title": "Restaurant",
       "startDate": "2021",
       "description": "Built a website for a restaurant using JavaScript, Google Maps APIs, Twitter Bootstrap, CSS3, HTML-5, and more. ",
       "images": [
@@ -150,7 +177,7 @@
       ]
     },
     {
-      "title": "tindog",
+      "title": "Startup App",
       "startDate": "2020",
       "description": "Built a landing page for an idea that matches dog owners for friendships and partners for their dogs. This idea is based on tinder's relationship dating app. Coded with CSS3 and Twitter Bootstrap, including mobile friendly and responsive designs.",
       "images": [
